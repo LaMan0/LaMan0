@@ -1,6 +1,6 @@
 <!-- ================= EN-TÊTE SVG ================= -->
 <p align="center">
-  <img src="https://raw.githubusercontent.com/LaMan0/LaMan0/main/github_presentation.mp4" alt="Terminal Animation" width="100%">
+  <img src="https://raw.githubusercontent.com/LaMan0/LaMan0/main/github_presentation.svg" alt="Terminal Animation" width="100%">
 </p>
 
 ---
