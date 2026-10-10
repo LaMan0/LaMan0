@@ -1,0 +1,51 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="760" height="250" viewBox="0 0 760 250" role="img" aria-label="Terminal affichant : étudiant en MMI">
+  <title>étudiant en MMI</title>
+  <style>
+    .mono { font-family: ui-monospace,'Cascadia Code','SF Mono',Menlo,Consolas,'DejaVu Sans Mono',monospace; }
+    .cover { fill:#0d1117; transform-box: fill-box; transform-origin: 100% 50%; }
+    .c1 { animation: r1 14s infinite; }
+    .c2 { animation: r2 14s infinite; }
+    .c3 { animation: r3 14s infinite; }
+    .c4 { animation: r4 14s infinite; }
+    .c5 { animation: r5 14s infinite; }
+    .cursor { animation: blink 1.1s infinite; }
+    @keyframes r1 { 0%,2%   { transform: scaleX(1); animation-timing-function: steps(8);  } 6%,90%  { transform: scaleX(0); } 90.01%,100% { transform: scaleX(1); } }
+    @keyframes r2 { 0%,9%   { transform: scaleX(1); animation-timing-function: steps(55); } 16%,90% { transform: scaleX(0); } 90.01%,100% { transform: scaleX(1); } }
+    @keyframes r3 { 0%,19%  { transform: scaleX(1); animation-timing-function: steps(17); } 24%,90% { transform: scaleX(0); } 90.01%,100% { transform: scaleX(1); } }
+    @keyframes r4 { 0%,27%  { transform: scaleX(1); animation-timing-function: steps(35); } 34%,90% { transform: scaleX(0); } 90.01%,100% { transform: scaleX(1); } }
+    @keyframes r5 { 0%,37%  { transform: scaleX(1); animation-timing-function: steps(40); } 45%,90% { transform: scaleX(0); } 90.01%,100% { transform: scaleX(1); } }
+    @keyframes blink { 0%,49% { opacity: 1; } 50%,100% { opacity: 0; } }
+  </style>
+
+  <!-- Fenêtre du terminal -->
+  <rect x="0.5" y="0.5" width="759" height="249" rx="12" fill="#0d1117" stroke="#30363d"/>
+  <rect x="1" y="1" width="758" height="38" rx="11" fill="#161b22"/>
+  <rect x="1" y="20" width="758" height="19" fill="#161b22"/>
+  <circle cx="24" cy="20" r="6.5" fill="#ff5f56"/>
+  <circle cx="46" cy="20" r="6.5" fill="#ffbd2e"/>
+  <circle cx="68" cy="20" r="6.5" fill="#27c93f"/>
+  <text class="mono" x="380" y="25" font-size="13" fill="#8b949e" text-anchor="middle">laman0@github: ~/mmi</text>
+
+  <!-- Ligne 1 : commande -->
+  <text class="mono" x="30" y="72" font-size="15">&lt;tspan fill="#7ee787"&gt;<tspan fill="#7ee787">$</tspan><tspan fill="#e6edf3"> whoami</tspan>lt;/tspan&gt;&lt;tspan fill="#e6edf3"&gt; whoami&lt;/tspan&gt;</text>
+  <rect class="cover c1" x="28" y="56" width="90" height="22"/>
+
+  <!-- Ligne 2 : réponse -->
+  <text class="mono" x="30" y="102" font-size="15" fill="#e6edf3">Étudiant en &lt;tspan fill="#7ee787" font-weight="600"&gt;MMI&lt;/tspan&gt; — Métiers du Multimédia &amp; de l'Internet</text>
+  <rect class="cover c2" x="28" y="86" width="520" height="22"/>
+
+  <!-- Ligne 3 : commande -->
+  <text class="mono" x="30" y="132" font-size="15">&lt;tspan fill="#7ee787"&gt;<tspan fill="#7ee787">$</tspan><tspan fill="#e6edf3"> ls competences/</tspan>lt;/tspan&gt;&lt;tspan fill="#e6edf3"&gt; ls competences/&lt;/tspan&gt;</text>
+  <rect class="cover c3" x="28" y="116" width="170" height="22"/>
+
+  <!-- Lignes 4-5 : compétences (modifie librement) -->
+  <text class="mono" x="30" y="162" font-size="15">&lt;tspan fill="#79c0ff"&gt;&gt;&lt;/tspan&gt;&lt;tspan fill="#e6edf3"&gt; développement web&lt;/tspan&gt;&lt;tspan dx="26" fill="#7ee787"&gt;&gt;&lt;/tspan&gt;&lt;tspan fill="#e6edf3"&gt; design &amp; UX&lt;/tspan&gt;&lt;tspan dx="26" fill="#d2a8ff"&gt;&gt;&lt;/tspan&gt;&lt;tspan fill="#e6edf3"&gt; audiovisuel&lt;/tspan&gt;</text>
+  <rect class="cover c4" x="28" y="146" width="560" height="22"/>
+
+  <text class="mono" x="30" y="192" font-size="15">&lt;tspan fill="#ffa657"&gt;&gt;&lt;/tspan&gt;&lt;tspan fill="#e6edf3"&gt; communication digitale&lt;/tspan&gt;&lt;tspan dx="26" fill="#ff7b72"&gt;&gt;&lt;/tspan&gt;&lt;tspan fill="#e6edf3"&gt; montage vidéo&lt;/tspan&gt;&lt;tspan dx="26" fill="#56d364"&gt;&gt;&lt;/tspan&gt;&lt;tspan fill="#e6edf3"&gt; community management&lt;/tspan&gt;</text>
+  <rect class="cover c5" x="28" y="176" width="680" height="22"/>
+
+  <!-- Prompt + curseur clignotant -->
+  <text class="mono" x="30" y="226" font-size="15" fill="#7ee787">$</text>
+  <rect class="cursor" x="47" y="211" width="9.5" height="17" fill="#7ee787"/>
+</svg>
