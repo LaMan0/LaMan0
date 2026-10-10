@@ -9,22 +9,22 @@
 
 <p align="center">
   <!-- Carte Projet 1 : Remplacez "nom-du-repo-1" par le nom exact de votre dépôt -->
-  <a href="https://github.com/LaMan0/nom-du-repo-1">
+  <a href="https://github.com/LaMan0/Chat-bot">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=LaMan0&repo=nom-du-repo-1&theme=tokyonight&show_owner=true&hide_border=true" width="48%" />
   </a>
   <!-- Carte Projet 2 : Remplacez "nom-du-repo-2" par le nom exact de votre dépôt -->
-  <a href="https://github.com/LaMan0/nom-du-repo-2">
+  <a href="https://github.com/LaMan0/Projet-ruche">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=LaMan0&repo=nom-du-repo-2&theme=tokyonight&show_owner=true&hide_border=true" width="48%" />
   </a>
 </p>
 
 <p align="center">
   <!-- Carte Projet 3 : Remplacez "nom-du-repo-3" par le nom exact de votre dépôt -->
-  <a href="https://github.com/LaMan0/nom-du-repo-3">
+  <a href="https://github.com/LaMan0/monster-site">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=LaMan0&repo=nom-du-repo-3&theme=tokyonight&show_owner=true&hide_border=true" width="48%" />
   </a>
   <!-- Carte Projet 4 : Remplacez "nom-du-repo-4" par le nom exact de votre dépôt -->
-  <a href="https://github.com/LaMan0/nom-du-repo-4">
+  <a href="https://github.com/LaMan0/PrismCraft">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=LaMan0&repo=nom-du-repo-4&theme=tokyonight&show_owner=true&hide_border=true" width="48%" />
   </a>
 </p>
