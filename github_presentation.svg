@@ -44,7 +44,7 @@
   <rect class="cover c2" x="28" y="86" width="510" height="22"/>
 
   <!-- Ligne 3 : commande ls competences/ -->
-  <text class="mono" x="30" y="132" font-size="15"><tspan fill="#7ee787">$</tspan><tspan fill="#e6edf3">Competences/</tspan></text>
+  <text class="mono" x="30" y="132" font-size="15"><tspan fill="#7ee787">$</tspan><tspan fill="#e6edf3"> Competences/</tspan></text>
   <rect class="cover c3" x="28" y="116" width="164" height="22"/>
 
   <!-- Ligne 4 : compétences (partie 1) -->
