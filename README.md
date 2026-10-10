@@ -1,6 +1,6 @@
 <!-- ================= EN-TÊTE SVG ================= -->
 <p align="center">
-  <img src="./github_presentation.svg" alt="GitHub Presentation" width="100%" />
+  <img src="https://raw.githubusercontent.com/LaMan0/LaMan0/main/github_presentation.svg" alt="Terminal Animation" width="100%">
 </p>
 
 ---
@@ -42,6 +42,8 @@
 
 ## 📫 Me Contacter & Réseaux
 
-- 💼 **LinkedIn :** [Mon Profil LinkedIn](https://linkedin.com/in/votre-profil)
-- 🌐 **Portfolio :** [Mon site web professionnel](https://votre-site.fr)
-- 📧 **Email professionnel :** contact@votre-domaine.com
+<p align="center">
+  <a href="https://linkedin.com/in/votre-profil-linkedin"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="mailto:votre.email@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <a href="https://votre-site-portfolio.fr"><img src="https://img.shields.io/badge/Portfolio-2563EB?style=for-the-badge&logo=google-chrome&logoColor=white" /></a>
+</p>
