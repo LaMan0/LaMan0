@@ -108,7 +108,7 @@
   <rect class="cover c4" x="28" y="146" width="452" height="22"/>
 
   <!-- Ligne 5 : compétences (partie 2) -->
-  <text class="mono" x="30" y="192" font-size="15"><tspan fill="#ffa657">&gt;</tspan><tspan fill="#e6edf3"> communication digitale</tspan><tspan dx="26" fill="#ff7b72">&gt;</tspan><tspan fill="#e6edf3"> montage vidéo</tspan><tspan dx="26" fill="#56d364">&gt;</tspan><tspan fill="#e6edf3"> community management</tspan></text>
+  <text class="mono" x="30" y="192" font-size="15"><tspan fill="#ffa657">&gt;</tspan><tspan fill="#e6edf3"> communication digitale</tspan><tspan dx="26" fill="#ff7b72">&gt;</tspan><tspan fill="#e6edf3"> montage vidéo</tspan><tspan dx="26" fill="#56d364">&gt;</tspan><tspan fill="#e6edf3"> création numérique</tspan></text>
   <rect class="cover c5" x="28" y="176" width="593" height="22"/>
 
   <!-- Sécurité de fin de ligne (opaque uniquement pendant l'effacement de la ligne) -->
