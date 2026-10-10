@@ -25,7 +25,7 @@
     <!-- Ligne 1 : commande whoami -->
     <text y="0">
       <tspan class="prompt">$ </tspan>
-      <tspan class="cmd">whoami</tspan>
+      <tspan class="cmd">who_am_i</tspan>
     </text>
     
     <!-- Résultat whoami -->
@@ -36,7 +36,7 @@
     <!-- Ligne 2 : commande ls competences/ -->
     <text y="70">
       <tspan class="prompt">$ </tspan>
-      <tspan class="cmd">ls competences/</tspan>
+      <tspan class="cmd">Competences/</tspan>
     </text>
 
     <!-- Résultats compétences -->
