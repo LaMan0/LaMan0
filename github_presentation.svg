@@ -92,7 +92,7 @@
   <text class="mono" x="380" y="25" font-size="13" fill="#8b949e" text-anchor="middle">laman0@github: ~/mmi</text>
 
   <!-- Ligne 1 : prompt "$ " (toujours affiché, hors du masque) + commande whoami -->
-  <text class="mono" x="30" y="72" font-size="15"><tspan fill="#7ee787">$</tspan><tspan fill="#e6edf3"> Me</tspan></text>
+  <text class="mono" x="30" y="72" font-size="15"><tspan fill="#7ee787">$</tspan><tspan fill="#e6edf3"> About me</tspan></text>
   <rect class="cover c1" x="47" y="56" width="56" height="22"/>
 
   <!-- Ligne 2 : réponse -->
