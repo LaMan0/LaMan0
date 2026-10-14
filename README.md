@@ -10,7 +10,7 @@
 <p align="center">
   <!-- Carte Projet 1 : Remplacez "nom-du-repo-1" par le nom exact de votre dépôt -->
   <a href="https://github.com/LaMan0/Chat-bot">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=LaMan0&repo=nom-du-repo-1&theme=tokyonight&show_owner=true&hide_border=true" width="48%" />
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=LaMan0&repo=Aura_OS&theme=tokyonight&show_owner=true&hide_border=true" width="48%" />
   </a>
   <!-- Carte Projet 2 : Remplacez "nom-du-repo-2" par le nom exact de votre dépôt -->
   <a href="https://github.com/LaMan0/Projet-ruche">
