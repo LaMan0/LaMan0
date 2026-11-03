@@ -8,24 +8,20 @@
 ## 🚀 Projets & Réalisations
 
 <p align="center">
-  <!-- Carte Projet 1 : Remplacez "nom-du-repo-1" par le nom exact de votre dépôt -->
   <a href="https://github.com/LaMan0/Chat-bot">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=LaMan0&repo=Axiom&theme=tokyonight&show_owner=true&hide_border=true" width="48%" />
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=LaMan0&repo=Chat-bot&theme=tokyonight&show_owner=true&hide_border=true&cache_seconds=86400" width="48%" />
   </a>
-  <!-- Carte Projet 2 : Remplacez "nom-du-repo-2" par le nom exact de votre dépôt -->
   <a href="https://github.com/LaMan0/Projet-ruche">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=LaMan0&repo=Projet-ruche&theme=tokyonight&show_owner=true&hide_border=true" width="48%" />
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=LaMan0&repo=Projet-ruche&theme=tokyonight&show_owner=true&hide_border=true&cache_seconds=86400" width="48%" />
   </a>
 </p>
 
 <p align="center">
-  <!-- Carte Projet 3 : Remplacez "nom-du-repo-3" par le nom exact de votre dépôt -->
   <a href="https://github.com/LaMan0/monster-site">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=LaMan0&repo=monster-site&theme=tokyonight&show_owner=true&hide_border=true" width="48%" />
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=LaMan0&repo=monster-site&theme=tokyonight&show_owner=true&hide_border=true&cache_seconds=86400" width="48%" />
   </a>
-  <!-- Carte Projet 4 : Remplacez "nom-du-repo-4" par le nom exact de votre dépôt -->
   <a href="https://github.com/LaMan0/PrismCraft">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=LaMan0&repo=PrismCraft&theme=tokyonight&show_owner=true&hide_border=true" width="48%" />
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=LaMan0&repo=PrismCraft&theme=tokyonight&show_owner=true&hide_border=true&cache_seconds=86400" width="48%" />
   </a>
 </p>
 
@@ -34,8 +30,8 @@
 ## 📊 Statistiques & Activité
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=LaMan0&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="Statistiques GitHub" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=LaMan0&layout=compact&theme=tokyonight&hide_border=true" alt="Langages les plus utilisés" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=LaMan0&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&cache_seconds=86400" alt="Statistiques GitHub" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=LaMan0&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=86400" alt="Langages les plus utilisés" width="48%" />
 </p>
 
 ---
