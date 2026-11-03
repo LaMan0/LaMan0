@@ -22,23 +22,6 @@
 
 ---
 
-## 📊 Statistiques & Activité
-
-<p align="center">
-  <!-- Statistiques générales -->
-  <img src="https://github-stats-extended.vercel.app/api?username=LaMan0&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="Statistiques GitHub" width="48%" />
-  
-  <!-- Graphique des langages en format Donut -->
-  <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=LaMan0&layout=donut&theme=tokyonight&hide_border=true" alt="Langages les plus utilisés" width="48%" />
-</p>
-
-<p align="center">
-  <!-- Graphique de régularité (Streak) -->
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=LaMan0&theme=tokyonight&hide_border=true" alt="GitHub Streak" width="98%" />
-</p>
-
----
-
 ## 📫 Me Contacter & Réseaux
 
 <p align="center">
