@@ -9,7 +9,7 @@
 
 <p align="center">
   <!-- Carte de gauche : ajout de stats supplémentaires pour augmenter sa hauteur -->
-  <img src="https://github-stats-extended.vercel.app/api?username=LaMan0&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&show=reviews,discussions_started,prs_merged" alt="Statistiques GitHub" width="50%" />
+  <img src="https://github-stats-extended.vercel.app/api?username=LaMan0&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&show=reviews,discussions_started,prs_merged" alt="Statistiques GitHub" width="52%" />
   
   <!-- Carte de droite : format donut -->
   <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=LaMan0&layout=donut&theme=tokyonight&hide_border=true" alt="Langages les plus utilisés" width="48%" />
