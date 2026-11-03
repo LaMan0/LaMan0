@@ -9,19 +9,19 @@
 
 <p align="center">
   <a href="https://github.com/LaMan0/Chat-bot">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=LaMan0&repo=Chat-bot&theme=tokyonight&show_owner=true&hide_border=true&cache_seconds=86400" width="48%" />
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=LaMan0&repo=Chat-bot&theme=tokyonight&show_owner=true&hide_border=true&cache_seconds=86400&v=1" width="48%" />
   </a>
   <a href="https://github.com/LaMan0/Projet-ruche">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=LaMan0&repo=Projet-ruche&theme=tokyonight&show_owner=true&hide_border=true&cache_seconds=86400" width="48%" />
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=LaMan0&repo=Projet-ruche&theme=tokyonight&show_owner=true&hide_border=true&cache_seconds=86400&v=1" width="48%" />
   </a>
 </p>
 
 <p align="center">
   <a href="https://github.com/LaMan0/monster-site">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=LaMan0&repo=monster-site&theme=tokyonight&show_owner=true&hide_border=true&cache_seconds=86400" width="48%" />
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=LaMan0&repo=monster-site&theme=tokyonight&show_owner=true&hide_border=true&cache_seconds=86400&v=1" width="48%" />
   </a>
   <a href="https://github.com/LaMan0/PrismCraft">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=LaMan0&repo=PrismCraft&theme=tokyonight&show_owner=true&hide_border=true&cache_seconds=86400" width="48%" />
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=LaMan0&repo=PrismCraft&theme=tokyonight&show_owner=true&hide_border=true&cache_seconds=86400&v=1" width="48%" />
   </a>
 </p>
 
