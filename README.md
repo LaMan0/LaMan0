@@ -5,24 +5,19 @@
 
 ---
 
-## 🚀 Projets & Réalisations
+## 📊 Statistiques & Activité
 
 <p align="center">
-  <a href="https://github.com/LaMan0/Chat-bot">
-    <img src="https://github-stats-extended.vercel.app/api/pin/?username=LaMan0&repo=Chat-bot&theme=tokyonight&show_owner=true&hide_border=true" width="48%" />
-  </a>
-  <a href="https://github.com/LaMan0/Projet-ruche">
-    <img src="https://github-stats-extended.vercel.app/api/pin/?username=LaMan0&repo=Projet-ruche&theme=tokyonight&show_owner=true&hide_border=true" width="48%" />
-  </a>
+  <!-- Carte de gauche : ajout de stats supplémentaires pour augmenter sa hauteur -->
+  <img src="https://github-stats-extended.vercel.app/api?username=LaMan0&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&show=reviews,discussions_started,prs_merged" alt="Statistiques GitHub" width="48%" />
+  
+  <!-- Carte de droite : format donut -->
+  <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=LaMan0&layout=donut&theme=tokyonight&hide_border=true" alt="Langages les plus utilisés" width="48%" />
 </p>
 
 <p align="center">
-  <a href="https://github.com/LaMan0/monster-site">
-    <img src="https://github-stats-extended.vercel.app/api/pin/?username=LaMan0&repo=monster-site&theme=tokyonight&show_owner=true&hide_border=true" width="48%" />
-  </a>
-  <a href="https://github.com/LaMan0/PrismCraft">
-    <img src="https://github-stats-extended.vercel.app/api/pin/?username=LaMan0&repo=PrismCraft&theme=tokyonight&show_owner=true&hide_border=true" width="48%" />
-  </a>
+  <!-- Carte du bas : réduction de la largeur pour s'aligner -->
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=LaMan0&theme=tokyonight&hide_border=true" alt="GitHub Streak" width="85%" />
 </p>
 
 ---
